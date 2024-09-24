@@ -11,9 +11,9 @@
     <li><a href="#purpose-of-the-analysis">🚲 Purpose of the Analysis</a></li>
     <li><a href="#analysis-and-key-insights">🚲 Analysis and Key Insights</a></li>
     <li><a href="#future-work">🚲 Future Work</a></li>
-    <li><a href="#conclusion">🚲 Conclusion</a></li>
     <li><a href="#dataset-link">🚲 Dataset Link</a></li>
     <li><a href="#dashboard-file-link">🚲 Dashboard File Link</a></li>
+    <li><a href="#conclusion">🚲 Conclusion</a></li>
 </ul>
 
 <h2 id="introduction">🚲 <strong>Introduction</strong> 🚲</h2>
