@@ -87,7 +87,7 @@
 <p><a href="#">Download the dataset here</a> <!-- Replace with actual dataset link --></p>
 
 <h2 id="dashboard-file-link">🚲 <strong>Dashboard File Link</strong> 🚲</h2>
-<p><a href="#">Download the Excel Dashboard here</a> <!-- Replace with actual dashboard link --></p>
+Download the Excel Dashboard here [Link](https://github.com/SinghPriya5/Bike-Sales/blob/main/bike%20sales%20data.xlsx)
 
 <h2 id="conclusion">🚲 <strong>Conclusion</strong> 🚲</h2>
 <p>The analysis provides insights into the bike sales market, revealing how factors such as commute distance, occupation, and homeownership influence purchasing decisions. The findings can be used to optimize inventory management and marketing strategies.</p>
