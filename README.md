@@ -56,40 +56,42 @@
 
 <h2 id="analysis-and-key-insights">🚲 <strong>Analysis and Key Insights</strong> 🚲</h2>
 
-<h3>1. Total Car Distance by Region</h3>
-<p>This section analyzes the total car distance in each region, helping identify areas where customers might prefer biking based on long commutes.</p>
+<h3>1. Total Commute Distance by Region</h3>
+<p>This section analyzes the total commute distance in each region, helping identify areas where customers might prefer biking based on longer commutes.</p>
 <ul>
-    <li><strong>Urban Region:</strong> 15,000 miles</li>
-    <li><strong>Suburban Region:</strong> 20,000 miles</li>
-    <li><strong>Rural Region:</strong> 25,000 miles</li>
+    <li><strong>Pacific Region:</strong> Commutes of 5-10 miles are most common, while 2-5 miles and 10+ miles are almost equal, and 0-1 miles is less frequent.</li>
+    <li><strong>North America:</strong> 5-10 miles is the most common, while 2-5 miles and 10+ miles are similar, and shorter distances (1-2 miles and 0-1 miles) are less frequent.</li>
+    <li><strong>Europe:</strong> 0-1 mile commutes are the highest, while other distances are quite similar across regions.</li>
 </ul>
 
 <h3>2. Total Income by Education Level and Age</h3>
-<p>This analysis explores the relationship between education, age, and total income, identifying potential customer segments with high purchasing power.</p>
+<p>This analysis explores the relationship between education, age, and total income, identifying potential customer segments with higher purchasing power.</p>
 <ul>
-    <li><strong>Bachelor's Degree, Age 25-35:</strong> $500,000</li>
-    <li><strong>Master's Degree, Age 35-45:</strong> $1,200,000</li>
-    <li><strong>Doctorate, Age 45-55:</strong> $2,000,000</li>
+    <li><strong>Bachelor's Degree:</strong> 30% of total income</li>
+    <li><strong>Graduate Degree:</strong> 54% of total income</li>
+    <li><strong>High School:</strong> 11% of total income</li>
+    <li><strong>Partial College:</strong> 1% of total income</li>
 </ul>
 
 <h3>3. Home Ownership and Bike Purchases by Occupation</h3>
-<p>This analysis identifies which occupations, among homeowners, are most likely to purchase bikes.</p>
+<p>This analysis identifies bike purchase trends among homeowners by occupation, offering insights into customer preferences.</p>
 <ul>
-    <li><strong>Engineers:</strong> 70% bike purchase rate</li>
-    <li><strong>Teachers:</strong> 55% bike purchase rate</li>
-    <li><strong>Managers:</strong> 65% bike purchase rate</li>
+    <li><strong>Clerical Occupations:</strong> 0-20% purchase rate</li>
+    <li><strong>Management:</strong> 20-40% purchase rate</li>
+    <li><strong>Manual Labor:</strong> 40-60% purchase rate</li>
+    <li><strong>Professional:</strong> 60-80% purchase rate</li>
+    <li><strong>Skilled Manual:</strong> 60-80% purchase rate</li>
 </ul>
 
 <h2 id="future-work">🚲 <strong>Future Work</strong> 🚲</h2>
-<p>Future analysis could involve predictive modeling to forecast future sales trends and optimize marketing strategies. Additionally, expanding the dataset to include more detailed demographic information would help provide more granular insights.</p>
+<p>Future analysis could involve predictive modeling to forecast sales trends and optimize marketing strategies. Expanding the dataset with more demographic details would enable more detailed customer segmentations and predictions.</p>
 
 <h2 id="dataset-link">🚲 <strong>Dataset Link</strong> 🚲</h2>
 <p><a href="#">Download the dataset here</a> <!-- Replace with actual dataset link --></p>
 
 <h2 id="dashboard-file-link">🚲 <strong>Dashboard File Link</strong> 🚲</h2>
-Download the Excel Dashboard here [Link](https://github.com/SinghPriya5/Bike-Sales/blob/main/bike%20sales%20data.xlsx)
+
+[Excel Dashboard ](https://github.com/SinghPriya5/Bike-Sales/blob/main/bike%20sales%20data.xlsx)here
+
 <h2 id="conclusion">🚲 <strong>Conclusion</strong> 🚲</h2>
-<p>The analysis provides insights into the bike sales market, revealing how factors such as commute distance, occupation, and homeownership influence purchasing decisions. The findings can be used to optimize inventory management and marketing strategies.</p>
-
-
-
+<p>The analysis provides insights into bike sales trends, revealing how factors such as commute distance, occupation, and homeownership influence purchasing decisions. These insights can be used to optimize inventory management and marketing strategies for better sales outcomes.</p>
