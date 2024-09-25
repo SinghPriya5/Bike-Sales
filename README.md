@@ -87,11 +87,12 @@
 <p>Future analysis could involve predictive modeling to forecast sales trends and optimize marketing strategies. Expanding the dataset with more demographic details would enable more detailed customer segmentations and predictions.</p>
 
 <h2 id="dataset-link">🚲 <strong>Dataset Link</strong> 🚲</h2>
-<p><a href="#">Download the dataset here</a> <!-- Replace with actual dataset link --></p>
+
+[Download the dataset here](https://github.com/SinghPriya5/Bike-Sales/blob/main/bike%20sales%20data.xlsx)
 
 <h2 id="dashboard-file-link">🚲 <strong>Dashboard File Link</strong> 🚲</h2>
 
-[Excel Dashboard ](https://github.com/SinghPriya5/Bike-Sales/blob/main/bike%20sales%20data.xlsx)here
+[Excel Dashboard Click here](https://github.com/SinghPriya5/Bike-Sales/blob/main/bike_sales_new.xlsx)
 
 <h2 id="conclusion">🚲 <strong>Conclusion</strong> 🚲</h2>
 <p>The analysis provides insights into bike sales trends, revealing how factors such as commute distance, occupation, and homeownership influence purchasing decisions. These insights can be used to optimize inventory management and marketing strategies for better sales outcomes.</p>
